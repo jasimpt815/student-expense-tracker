@@ -169,9 +169,3 @@ Your highest expense is 300.0
 
 ---
 
-##  Author
-
-**[Jasim PT]** · [VIT BHOPAL]
-GitHub: [your-github-username](https://github.com/your-github-username)
-
----
