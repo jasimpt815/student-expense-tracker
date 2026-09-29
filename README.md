@@ -71,6 +71,7 @@ Problem: Design and implement a simple, intuitive program, that would allow the 
 Scope of the Project:
 
 In Scope
+    
     Command-line (console) Python 3 application that:
     Records expenses with accompanying name/category
     Displays all expenses
@@ -81,6 +82,7 @@ In Scope
     Is modular, uses separate files for each module
 
 Out of Scope (for this iteration)
+    
     Permanent storage (files or DB) of the data; all data is held in memory during the session
     Graphical or web interface
     Updating, editing, or deleting expenses
@@ -88,8 +90,9 @@ Out of Scope (for this iteration)
     Multi-user, authentication, server components
 
 Target Users
+    
     User Type Benefit
     Students Tracking of pocket money disbursements without the need for complex financial software
     Financial illiterate First steps in understanding their spending habits
-    People who want to have a total sum of expenses at any given moment Quickly get an overview of their largest expenses and see how much they spent on what
+    People who want to have a total sum of expenses at any given moment Quickly get an overview of their largest expenses and see how much they spent on     what
     Python learners Simple, clean, and well-structured program that uses modules and such core data structures as lists, dicts, and loops.
